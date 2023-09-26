@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on CTK</title>
+    <link>/events/</link>
+    <description>Recent content in Events on CTK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="/events/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2018 Vilambi celebrations</title>
+      <link>/events/2018/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/events/2018/</guid>
+      <description>2018 Vilambi celebrations.</description>
+    </item>
+    
+    <item>
+      <title>2019 Vihari celebrations</title>
+      <link>/events/2019/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/events/2019/</guid>
+      <description>2019 Vihari celebrations.</description>
+    </item>
+    
+    <item>
+      <title>2023 Sobakiruthu celebrations</title>
+      <link>/events/2023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/events/2023/</guid>
+      <description>2023 Sobakiruthu celebrations.</description>
+    </item>
+    
+  </channel>
+</rss>

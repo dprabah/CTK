@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CTK</title>
+    <link>/</link>
+    <description>Recent content on CTK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2018 Vilambi celebrations</title>
+      <link>/events/2018/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/events/2018/</guid>
+      <description>2018 Vilambi celebrations.</description>
+    </item>
+    
+    <item>
+      <title>2019 Vihari celebrations</title>
+      <link>/events/2019/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/events/2019/</guid>
+      <description>2019 Vihari celebrations.</description>
+    </item>
+    
+    <item>
+      <title>2023 Sobakiruthu celebrations</title>
+      <link>/events/2023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/events/2023/</guid>
+      <description>2023 Sobakiruthu celebrations.</description>
+    </item>
+    
+    <item>
+      <title>Membership</title>
+      <link>/membership/</link>
+      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/membership/</guid>
+      <description>Our membership is designed to be inclusive and welcoming to individuals who have an interest in Tamil culture, heritage, and community life. Here&amp;rsquo;s a more detailed description of what it means to be a member of our Tamil Sangam in Germany:
+Inclusivity: We believe in diversity and inclusivity. Membership is open to people of all ages, genders, ethnic backgrounds, and nationalities who share an interest in Tamil culture and heritage. Whether you&amp;rsquo;re a Tamil native, part of a Tamil family, or simply passionate about Tamil culture, you&amp;rsquo;re invited to join us.</description>
+    </item>
+    
+    <item>
+      <title>About Us</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>We are the heart of the Tamil community in Germany, dedicated to preserving, promoting, and celebrating our rich culture, language, and heritage. At our Tamil Sangam, we embrace inclusivity, welcoming individuals from diverse backgrounds who share a passion for Tamil traditions.
+Our Membership: Membership is open to all, irrespective of age, gender, ethnicity, or nationality, offering access to a tapestry of cultural events, language workshops, art exhibitions, and educational seminars. As a member, you&amp;rsquo;ll engage with a vibrant community, participate in community service projects, and contribute to our shared well-being.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>To contact us, please fill out the form below.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Vision",
+    "description": "To preserve, promote, and celebrate Tamil culture, heritage, and values while fostering a strong sense of unity and community among Tamil residents and immigrants in Germany.",
+    "icon": "icon-desktop_windows"
+  },
+  {
+    "title": "Mission",
+    "description": "To celebrate Tamil festivals and traditions, empower youth, support community integration, advocate for Tamil interests, and nurture cultural preservation and promotion.",
+    "icon": "icon-lightbulb_outline"
+  },
+  {
+    "title": "Membership",
+    "description": "Membership is open to all who share an interest in Tamil culture and heritage, irrespective of background, to join our vibrant community in Germany",
+    "icon": "icon-github",
+    "link": "/membership/"
+  }
+]
